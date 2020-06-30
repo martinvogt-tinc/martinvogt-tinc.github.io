@@ -7,3 +7,6 @@ Das hier sollen also ein paar Wöter unter dem Titel werden zwölf dreizehn vier
 
 Und er sagte immer:
 > Hinterher weiss man immer mehr.
+
+
+<img src="https://www.tinc.gmbh/images/tinc-logo-font.svg">
